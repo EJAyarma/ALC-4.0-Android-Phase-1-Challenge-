@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">App Challenge</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="title_activity_a">ALC 4 Phase 1</string>
+    <string name="page_topic">Welcome to ALC 4.0</string>
+    <string name="button_alc">About ALC</string>
+    <string name="button_profile">My Profile</string>
+    <string name="title_activity_b">About ALC</string>
+    <string name="title_activity_c">My Profile</string>
+    <string name="name">Emmanuel John Ayarma</string>
+    <string name="track">Track: Android</string>
+    <string name="country">Country: Ghana</string>
+    <string name="email">Email: johnayarmahe@gmail.com</string>
+    <string name="phone_number">Phone Number: +233241739556</string>
+    <string name="me">That\'s me</string>
+</resources>
